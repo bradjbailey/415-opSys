@@ -1,0 +1,210 @@
+==18568== Memcheck, a memory error detector
+==18568== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==18568== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==18568== Command: ./bank input-1.txt
+==18568== 
+Workers starting...
+bank 268797696 waiting now, update time is 0.
+184870656 number reached, pausing.
+243619584 number reached, pausing.
+201656064 number reached, pausing.
+226834176 number reached, pausing.
+218441472 number reached, pausing.
+235226880 number reached, pausing.
+210048768 number reached, pausing.
+193263360 number reached, pausing.
+252012288 number reached, pausing.
+260404992 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 1.
+184870656 number reached, pausing.
+252012288 number reached, pausing.
+218441472 number reached, pausing.
+243619584 number reached, pausing.
+226834176 number reached, pausing.
+235226880 number reached, pausing.
+193263360 number reached, pausing.
+210048768 number reached, pausing.
+201656064 number reached, pausing.
+260404992 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 2.
+184870656 number reached, pausing.
+260404992 number reached, pausing.
+193263360 number reached, pausing.
+201656064 number reached, pausing.
+226834176 number reached, pausing.
+243619584 number reached, pausing.
+210048768 number reached, pausing.
+252012288 number reached, pausing.
+235226880 number reached, pausing.
+218441472 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 3.
+218441472 number reached, pausing.
+193263360 number reached, pausing.
+260404992 number reached, pausing.
+235226880 number reached, pausing.
+210048768 number reached, pausing.
+201656064 number reached, pausing.
+226834176 number reached, pausing.
+252012288 number reached, pausing.
+184870656 number reached, pausing.
+243619584 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 4.
+235226880 number reached, pausing.
+193263360 number reached, pausing.
+260404992 number reached, pausing.
+243619584 number reached, pausing.
+201656064 number reached, pausing.
+252012288 number reached, pausing.
+184870656 number reached, pausing.
+226834176 number reached, pausing.
+210048768 number reached, pausing.
+218441472 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 5.
+252012288 number reached, pausing.
+218441472 number reached, pausing.
+193263360 number reached, pausing.
+235226880 number reached, pausing.
+226834176 number reached, pausing.
+243619584 number reached, pausing.
+201656064 number reached, pausing.
+184870656 number reached, pausing.
+260404992 number reached, pausing.
+210048768 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 6.
+218441472 number reached, pausing.
+235226880 number reached, pausing.
+193263360 number reached, pausing.
+243619584 number reached, pausing.
+201656064 number reached, pausing.
+210048768 number reached, pausing.
+184870656 number reached, pausing.
+252012288 number reached, pausing.
+226834176 number reached, pausing.
+260404992 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 7.
+201656064 number reached, pausing.
+260404992 number reached, pausing.
+235226880 number reached, pausing.
+184870656 number reached, pausing.
+243619584 number reached, pausing.
+226834176 number reached, pausing.
+252012288 number reached, pausing.
+193263360 number reached, pausing.
+218441472 number reached, pausing.
+210048768 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 8.
+193263360 number reached, pausing.
+235226880 number reached, pausing.
+218441472 number reached, pausing.
+260404992 number reached, pausing.
+210048768 number reached, pausing.
+252012288 number reached, pausing.
+226834176 number reached, pausing.
+201656064 number reached, pausing.
+184870656 number reached, pausing.
+243619584 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 9.
+184870656 number reached, pausing.
+226834176 number reached, pausing.
+260404992 number reached, pausing.
+235226880 number reached, pausing.
+218441472 number reached, pausing.
+193263360 number reached, pausing.
+210048768 number reached, pausing.
+252012288 number reached, pausing.
+243619584 number reached, pausing.
+201656064 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 10.
+193263360 number reached, pausing.
+235226880 number reached, pausing.
+218441472 number reached, pausing.
+260404992 number reached, pausing.
+210048768 number reached, pausing.
+184870656 number reached, pausing.
+226834176 number reached, pausing.
+201656064 number reached, pausing.
+243619584 number reached, pausing.
+252012288 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 11.
+218441472 number reached, pausing.
+193263360 number reached, pausing.
+235226880 number reached, pausing.
+260404992 number reached, pausing.
+226834176 number reached, pausing.
+252012288 number reached, pausing.
+184870656 number reached, pausing.
+201656064 number reached, pausing.
+210048768 number reached, pausing.
+243619584 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 12.
+218441472 is done.
+260404992 is done.
+235226880 number reached, pausing.
+193263360 number reached, pausing.
+252012288 number reached, pausing.
+184870656 number reached, pausing.
+226834176 number reached, pausing.
+201656064 number reached, pausing.
+210048768 number reached, pausing.
+243619584 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 13.
+193263360 is done.
+235226880 is done.
+252012288 number reached, pausing.
+226834176 number reached, pausing.
+243619584 number reached, pausing.
+184870656 number reached, pausing.
+210048768 number reached, pausing.
+201656064 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 14.
+252012288 is done.
+243619584 number reached, pausing.
+226834176 number reached, pausing.
+201656064 number reached, pausing.
+210048768 number reached, pausing.
+184870656 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 15.
+184870656 number reached, pausing.
+243619584 number reached, pausing.
+210048768 number reached, pausing.
+226834176 number reached, pausing.
+201656064 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 16.
+210048768 is done.
+243619584 is done.
+184870656 number reached, pausing.
+226834176 number reached, pausing.
+201656064 number reached, pausing.
+bank 268797696 signal received.
+bank 268797696 waiting now, update time is 17.
+184870656 is done.
+226834176 is done.
+201656064 is done.
+bank 268797696 signal received.
+Total updates: 18
+All threads completed!
+==18568== 
+==18568== HEAP SUMMARY:
+==18568==     in use at exit: 0 bytes in 0 blocks
+==18568==   total heap usage: 880,164 allocs, 880,164 frees, 22,554,036 bytes allocated
+==18568== 
+==18568== All heap blocks were freed -- no leaks are possible
+==18568== 
+==18568== For counts of detected and suppressed errors, rerun with: -v
+==18568== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

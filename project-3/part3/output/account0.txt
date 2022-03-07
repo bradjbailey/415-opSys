@@ -1,0 +1,19 @@
+Account 0:
+Update #0 - Current balance:	3988007.034790
+Update #1 - Current balance:	3893086.062670
+Update #2 - Current balance:	3814960.962950
+Update #3 - Current balance:	3755096.313130
+Update #4 - Current balance:	3755184.716190
+Update #5 - Current balance:	3703084.772460
+Update #6 - Current balance:	3628114.908210
+Update #7 - Current balance:	3617482.039780
+Update #8 - Current balance:	3665848.583580
+Update #9 - Current balance:	3590035.728740
+Update #10 - Current balance:	3462782.921290
+Update #11 - Current balance:	3410510.120120
+Update #12 - Current balance:	3341668.585530
+Update #13 - Current balance:	3305108.061800
+Update #14 - Current balance:	3282074.824840
+Update #15 - Current balance:	3233143.414470
+Update #16 - Current balance:	3163551.144700
+Update #17 - Current balance:	3111685.125030
